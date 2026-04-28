@@ -4,15 +4,14 @@ module.exports = defineConfig({
   testDir: './tests',
   fullyParallel: true,
   workers: 2,
-
-  timeout: 120000, 
+  timeout: 120000,
 
   use: {
-    browserName: 'chromium',
-    headless: false,   
+    browserName: 'chromium',   
+    headless: false,
     viewport: null,
     launchOptions: {
-      slowMo: 300      
+      slowMo: 300
     }
   },
 });
