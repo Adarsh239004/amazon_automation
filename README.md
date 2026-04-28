@@ -228,16 +228,6 @@ This project includes:
 
 ---
 
-## 📈 Future Enhancements
-
-* Add assertions (using expect)
-* Generate HTML reports
-* Integrate CI/CD pipeline (GitHub Actions / Jenkins)
-* Run tests on multiple browsers
-* Add screenshots & video recording
-
----
-
 ## 👨‍💻 Author
 
 **Adarsh Singh**
