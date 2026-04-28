@@ -190,6 +190,9 @@ npx playwright test
 iPhone Price: ₹xxxxx
 Galaxy Price: ₹xxxxx
 ```
+* If product is currently unavailable or out of stock it will print Price not found
+
+---
 
 * Logs for actions like:
 
